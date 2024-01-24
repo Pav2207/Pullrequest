@@ -16,8 +16,8 @@ class student {
 public class Main {
     public static void main(String[] args) {
 
-        student karthik=new student(22,"karthik",45);
-        student raju=new student(25,"raju",78);
+        student karthik=new student(22,"PAVITHRA",45);
+        student raju=new student(25,"MEGA",78);
         System.out.println(raju.mark);
 
 
